@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/anshushakya565/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

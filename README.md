@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshushakya565/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -19,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |

@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

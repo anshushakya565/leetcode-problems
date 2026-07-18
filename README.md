@@ -14,6 +14,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -80,9 +82,14 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -77,4 +78,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->

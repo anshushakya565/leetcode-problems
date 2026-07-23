@@ -60,6 +60,7 @@
 | [0007-reverse-integer](https://github.com/anshushakya565/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/anshushakya565/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -97,4 +98,5 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/anshushakya565/leetcode-problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

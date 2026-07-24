@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/anshushakya565/leetcode-problems/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -101,4 +102,5 @@
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/anshushakya565/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/anshushakya565/leetcode-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshushakya565/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anshushakya565/leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshushakya565/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/anshushakya565/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshushakya565/leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshushakya565/leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## String
 |  |

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshushakya565/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshushakya565/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/anshushakya565/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -102,6 +103,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshushakya565/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anshushakya565/leetcode-problems/tree/master/0162-find-peak-element) |

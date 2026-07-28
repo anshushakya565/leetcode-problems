@@ -102,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -147,4 +148,5 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

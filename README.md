@@ -101,6 +101,7 @@
 | [0075-sort-colors](https://github.com/anshushakya565/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

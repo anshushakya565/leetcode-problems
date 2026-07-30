@@ -115,6 +115,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/anshushakya565/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/anshushakya565/leetcode-problems/tree/master/3174-clear-digits) |
 ## Number Theory
@@ -166,6 +167,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/anshushakya565/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/anshushakya565/leetcode-problems/tree/master/3174-clear-digits) |
 ## Simulation

@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anshushakya565/leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -162,10 +163,12 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

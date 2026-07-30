@@ -113,6 +113,7 @@
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/anshushakya565/leetcode-problems/tree/master/0771-jewels-and-stones) |
+| [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -157,4 +158,12 @@
 | [0206-reverse-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

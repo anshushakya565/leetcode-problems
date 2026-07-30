@@ -16,6 +16,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anshushakya565/leetcode-problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshushakya565/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/anshushakya565/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -176,4 +178,8 @@
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/anshushakya565/leetcode-problems/tree/master/3174-clear-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

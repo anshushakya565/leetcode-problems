@@ -22,6 +22,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/anshushakya565/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshushakya565/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshushakya565/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/anshushakya565/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/anshushakya565/leetcode-problems/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshushakya565/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,12 +180,14 @@
 | [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/anshushakya565/leetcode-problems/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshushakya565/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/anshushakya565/leetcode-problems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshushakya565/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/anshushakya565/leetcode-problems/tree/master/3174-clear-digits) |
 ## Monotonic Stack

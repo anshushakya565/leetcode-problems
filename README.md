@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/anshushakya565/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,4 +188,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anshushakya565/leetcode-problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anshushakya565/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

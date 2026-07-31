@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/anshushakya565/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshushakya565/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anshushakya565/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/anshushakya565/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@
 | [0007-reverse-integer](https://github.com/anshushakya565/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anshushakya565/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/anshushakya565/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshushakya565/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anshushakya565/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/anshushakya565/leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anshushakya565/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshushakya565/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

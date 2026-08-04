@@ -223,6 +223,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anshushakya565/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anshushakya565/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -280,4 +284,5 @@
 | [0098-validate-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

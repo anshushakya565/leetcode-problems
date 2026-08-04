@@ -8,8 +8,18 @@ class Solution:
     def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
         if root == None:
             return TreeNode(val)
-        if root.val > val:
-            root.left = self.insertIntoBST(root.left, val)
-        if root.val < val:
-            root.right = self.insertIntoBST(root.right, val)
+        curr = root
+        while True:
+            if val < curr.val:
+                if curr.left is None:
+                    curr.left = TreeNode(val)
+                    break
+                else:
+                    curr = curr.left
+            else:
+                if curr.right is None:
+                    curr.right = TreeNode(val)
+                    break
+                else:
+                    curr = curr.right
         return root

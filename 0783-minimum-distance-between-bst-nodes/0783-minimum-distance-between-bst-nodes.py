@@ -15,11 +15,6 @@ class Solution:
             if self.prev != None:
                 self.mini = min(self.mini, root.val - self.prev)
             self.prev = root.val
-
-            # li.append(root.val)
             helper(root.right)
-        # li = []
         helper(root)
-        # for i in range(len(li)):
-        #     mini = min(mini, (li[i] + 1) - li[i])
         return self.mini

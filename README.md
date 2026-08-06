@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshushakya565/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshushakya565/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/anshushakya565/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -236,6 +237,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshushakya565/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshushakya565/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anshushakya565/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -271,6 +273,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anshushakya565/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshushakya565/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anshushakya565/leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anshushakya565/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/anshushakya565/leetcode-problems/tree/master/0841-keys-and-rooms) |
@@ -301,10 +304,15 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshushakya565/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/anshushakya565/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshushakya565/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

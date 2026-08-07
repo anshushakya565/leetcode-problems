@@ -26,6 +26,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/anshushakya565/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,4 +320,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/anshushakya565/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/anshushakya565/leetcode-problems/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->

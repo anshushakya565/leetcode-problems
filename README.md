@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anshushakya565/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anshushakya565/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anshushakya565/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshushakya565/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +90,7 @@
 | [0009-palindrome-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/anshushakya565/leetcode-problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshushakya565/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/anshushakya565/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/anshushakya565/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshushakya565/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anshushakya565/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshushakya565/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -326,4 +329,8 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshushakya565/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anshushakya565/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
